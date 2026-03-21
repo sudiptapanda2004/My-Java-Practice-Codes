@@ -19,7 +19,7 @@ void main() {
     a = b;
     b = temp;
 
-    System.out.println("a = " +a);
+    System.out.println("a = " +a);    # Here 'call by value' will happen in Java
     System.out.println("b = " +b);
 }   */
 
